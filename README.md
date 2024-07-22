@@ -125,3 +125,5 @@ npm -v
 I am a skilled tester proficient in Cypress and experienced in functional testing methodologies.
 
 Connect Me --> "shaikahamadjani4@gmail.com"
+
+![Screenshot 2024-07-22 110752](https://github.com/user-attachments/assets/c2c67494-4d74-4ba6-a855-91f91644739a)
