@@ -58,7 +58,7 @@ AUT : https://tutorialsninja.com/demo/
 
 
 ## Directory Structure
-CYPRESSPROJECT/ ├─ cypress/ ├─ Integration/├─ Assignment/ ├─ Qafox_Project/
+CYPRESSPROJECT/ ├─ cypress/ ├─ Integration/ ├─ Qafox_Project/
 ## Credentials
 "Email" : "jamesbond007@gmail.com"
 
